@@ -1,1 +1,1 @@
-# linked-list
+# Linked lists in C
